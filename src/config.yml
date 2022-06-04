@@ -1,0 +1,11 @@
+#Author: Vertonowsky
+
+
+#Name of the database
+database-name: skyblock
+
+#Name of the user used to login to the database
+database-user: Admin
+
+#Password of the root user to login to the database
+database-password: Admin123

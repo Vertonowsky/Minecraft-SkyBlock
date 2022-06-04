@@ -1,0 +1,9 @@
+#wzór:
+
+#ranks:
+#    Gracz:
+#        options:
+#            default: true
+#        permissions:
+#            - vert.heal
+#            - vert.gamemode

@@ -1,0 +1,86 @@
+name: SkyBlock
+version: 1.0
+main: me.vertonowsky.main.Main
+Author: Vertonowsky
+depend: [Citizens, HolographicDisplays, ProtocolLib]
+
+
+commands:
+  gamemode:
+    aliases: [gm]
+  vanish:
+    aliases: [v]
+  heal:
+  sun:
+  rain:
+  day:
+  night:
+  teleport:
+    aliases: [tp]
+  tpall:
+  clear:
+  msg:
+  r:
+  invsee:
+  endersee:
+  broadcast:
+  setspawn:
+  spawn:
+  repair:
+  thor:
+  daj:
+  chat:
+  setwarp:
+  warp:
+  delwarp:
+  killall:
+  fly:
+    aliases: [lot]
+  bany:
+  ban:
+  tempban:
+  mute:
+  unmute:
+  unban:
+  banlist:
+  kick:
+  kickall:
+  checkban:
+  money:
+    aliases: [balance, kasa, pieniadze]
+  pay:
+  addmoney:
+  wyspa:
+  oijziojsjdfisjdfisdf:
+  dom:
+  odwiedz:
+  setrank:
+  vholo:
+  doubleexp:
+  doubledrop:
+  ustawpoziom:
+  pvp:
+  adminitems:
+  skup:
+  sklep:
+  spawners:
+  zdolnosci:
+    aliases: [praca, job, jobs, work]
+  moneychest:
+  addquest:
+  zadania:
+  pomoc:
+  setcity:
+  name:
+  prize:
+  forward:
+  dusza:
+    aliases: [dusze, souls]
+  zestaw:
+    aliases: [daily, reward]
+  vote:
+  verifiedmclist:
+  swap:
+  market:
+  wystaw:
+  whois:
