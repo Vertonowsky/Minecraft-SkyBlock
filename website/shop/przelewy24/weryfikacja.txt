@@ -1,0 +1,113 @@
+
+19:06:58: Transakcja zostala zweryfikowana poprawnie 
+
+19:15:14: Transakcja zostala zweryfikowana poprawnie 
+
+14:52:16: Transakcja zostala zweryfikowana poprawnie 
+
+14:52:33: Transakcja zostala zweryfikowana poprawnie 
+
+14:52:44: Transakcja zostala zweryfikowana poprawnie 
+
+14:52:56: Transakcja zostala zweryfikowana poprawnie 
+
+21:17:33: Bledna weryfikacja transakcji 
+
+21:18:17: Bledna weryfikacja transakcji 
+
+21:19:59: Bledna weryfikacja transakcji 
+
+21:21:02: Bledna weryfikacja transakcji 
+
+21:22:17: Bledna weryfikacja transakcji 
+
+21:23:50: Bledna weryfikacja transakcji 
+
+21:24:55: Transakcja zostala zweryfikowana poprawnie 
+
+21:25:16: Transakcja zostala zweryfikowana poprawnie 
+
+21:25:41: Transakcja zostala zweryfikowana poprawnie 
+
+21:25:59: Transakcja zostala zweryfikowana poprawnie 
+
+21:46:12: Bledna weryfikacja transakcji 
+
+21:48:36: Transakcja zostala zweryfikowana poprawnie 
+
+22:01:12: Bledna weryfikacja transakcji 
+
+22:31:13: Bledna weryfikacja transakcji 
+
+23:31:13: Bledna weryfikacja transakcji 
+
+02:01:13: Bledna weryfikacja transakcji 
+
+09:31:13: Bledna weryfikacja transakcji 
+
+18:07:25: Transakcja zostala zweryfikowana poprawnie 
+
+13:25:04: Transakcja zostala zweryfikowana poprawnie 
+
+19:59:18: Transakcja zostala zweryfikowana poprawnie 
+
+17:46:35: Transakcja zostala zweryfikowana poprawnie 
+
+19:21:39: Transakcja zostala zweryfikowana poprawnie 
+
+22:35:28: Transakcja zostala zweryfikowana poprawnie 
+
+07:32:44: Transakcja zostala zweryfikowana poprawnie 
+
+07:33:26: Transakcja zostala zweryfikowana poprawnie 
+
+14:51:59: Transakcja zostala zweryfikowana poprawnie 
+
+16:30:47: Transakcja zostala zweryfikowana poprawnie 
+
+20:55:39: Transakcja zostala zweryfikowana poprawnie 
+
+21:16:25: Transakcja zostala zweryfikowana poprawnie 
+
+14:52:06: Transakcja zostala zweryfikowana poprawnie 
+
+17:07:31: Transakcja zostala zweryfikowana poprawnie 
+
+19:59:44: Transakcja zostala zweryfikowana poprawnie 
+
+16:34:20: Transakcja zostala zweryfikowana poprawnie 
+
+17:58:19: Transakcja zostala zweryfikowana poprawnie 
+
+18:00:16: Transakcja zostala zweryfikowana poprawnie 
+
+13:54:36: Transakcja zostala zweryfikowana poprawnie 
+
+14:34:30: Transakcja zostala zweryfikowana poprawnie 
+
+16:07:22: Transakcja zostala zweryfikowana poprawnie 
+
+22:25:19: Transakcja zostala zweryfikowana poprawnie 
+
+09:22:45: Transakcja zostala zweryfikowana poprawnie 
+
+09:23:57: Transakcja zostala zweryfikowana poprawnie 
+
+10:51:36: Transakcja zostala zweryfikowana poprawnie 
+
+19:29:19: Transakcja zostala zweryfikowana poprawnie 
+
+22:33:24: Transakcja zostala zweryfikowana poprawnie 
+
+17:07:47: Transakcja zostala zweryfikowana poprawnie 
+
+15:28:51: Transakcja zostala zweryfikowana poprawnie 
+
+17:41:13: Transakcja zostala zweryfikowana poprawnie 
+
+18:18:52: Transakcja zostala zweryfikowana poprawnie 
+
+19:46:29: Transakcja zostala zweryfikowana poprawnie 
+
+19:47:58: Transakcja zostala zweryfikowana poprawnie 
+
